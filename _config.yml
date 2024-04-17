@@ -11,8 +11,8 @@ palette: blue
 header:
   title: Mario Canalella
   tagline: Software Engineer
-  profile_img: images/avatar.png
-  profile_img_alt: Author avatar
+  profile_img: images/avatar.jpeg
+  profile_img_alt: Avatar
   background: dark
   has_nav: true
   nav_links:
