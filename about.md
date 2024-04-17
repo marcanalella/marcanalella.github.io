@@ -38,23 +38,23 @@ Greetings! I'm **Mario Canalella**, a software engineer with a fervent passion f
 
 I'm not just your typical software engineer. I'm someone who thrives on the intersection of code and finance, finding exhilaration in crafting innovative solutions that empower individuals and businesses in the realm of finance.
 
-## My Journey
+#### My Journey
 
 My journey began with a fascination for numbers and a knack for problem-solving. Fuelled by curiosity, I delved into the world of software engineering, honing my skills in various programming languages and frameworks. But it wasn't until I stumbled upon the captivating world of finance that I found my true calling.
 
-## Why Finance?
+#### Why Finance?
 
 Why finance, you ask? For me, finance isn't just about numbers; it's about understanding the underlying dynamics that drive markets, the thrill of making calculated risks, and the satisfaction of seeing strategies come to fruition. It's about leveraging technology to navigate the complexities of financial systems and unlock opportunities for growth and prosperity.
 
-## My Approach
+#### My Approach
 
 In my work, I bring together the best of both worlds: the precision of software engineering and the insight of financial expertise. Whether it's developing algorithmic trading strategies, building robust financial applications, or conducting in-depth data analysis, I approach every project with a blend of technical excellence and financial insight.
 
-## What Drives Me
+#### What Drives Me
 
 What drives me is the opportunity to make a tangible impact. Whether it's helping a small investor make smarter decisions or assisting a financial institution in optimizing their operations, I find fulfillment in knowing that my work has contributed to someone's success.
 
-## Let's Connect
+#### Let's Connect
 
 If you share my passion for technology and finance, I'd love to connect with you. Whether you're looking to collaborate on a project, share ideas, or simply geek out over the latest developments in the world of finance, I'm all ears.
 
