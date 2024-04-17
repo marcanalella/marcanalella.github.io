@@ -31,19 +31,19 @@ header:
   has_social: true
   social_links:
     - label: GitHub
-      url: 'https://github.com/'
+      url: 'https://github.com/marcanalella'
       style: icon
       icon_class: github
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
+      url: 'https://www.linkedin.com/in/mario-canalella/'
       style: icon
       icon_class: linkedin
       new_window: true
     - label: Telegram
-      url: 'https://dev.to/'
+      url: 'https://t.me/mariocanalella'
       style: icon
-      icon_class: dev
+      icon_class: telegram
       new_window: true
 footer:
   content: >-
