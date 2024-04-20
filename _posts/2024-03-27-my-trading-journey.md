@@ -1,9 +1,7 @@
 ---
 title: My Trading Journey
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+    My Trading Journey is a dedicated space within a website where I share my experiences, insights, and strategies related to trading and algorithmic trading (algo trading). This page serves as a platform for me to document my personal journey in the financial markets, as well as to provide valuable resources and information for fellow traders and enthusiasts.
 date: '2024-03-27'
 thumb_img_path: images/2.jpeg
 thumb_img_alt: Icelandic horses
@@ -11,7 +9,7 @@ content_img_path: images/2.jpeg
 content_img_alt: Icelandic horses
 seo:
   title: My Trading Journey
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  description: My Trading Journey is a dedicated space within a website where I share my experiences, insights, and strategies related to trading and algorithmic trading.
   extra:
     - name: 'og:type'
       value: article
@@ -21,8 +19,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        My Trading Journey is a dedicated space within a website where I share my experiences, insights, and strategies related to trading and algorithmic trading.
       keyName: property
     - name: 'og:image'
       value: images/2.jpeg
@@ -34,8 +31,7 @@ seo:
       value: My Trading Journey
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        My Trading Journey is a dedicated space within a website where I share my experiences, insights, and strategies related to trading and algorithmic trading.
     - name: 'twitter:image'
       value: images/2.jpeg
       relativeUrl: true
@@ -46,7 +42,7 @@ layout: post
 
 **My Trading Journey** is a dedicated space within a website where I share my experiences, insights, and strategies related to trading and algorithmic trading (algo trading). This page serves as a platform for me to document my personal journey in the financial markets, as well as to provide valuable resources and information for fellow traders and enthusiasts.
 
-**Link project:** [Click here](https://easy-talk.netlify.app/en/)
+**Link project:** [Click here](https://mc-mytradingjournal.netlify.app)
 
 Expect to find a variety of content, including:
 
