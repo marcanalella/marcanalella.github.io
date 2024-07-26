@@ -41,7 +41,7 @@ header:
       icon_class: linkedin
       new_window: true
     - label: Telegram
-      url: 'https://t.me/mariocanalella'
+      url: 'https://t.me/mcanalella'
       style: icon
       icon_class: telegram
       new_window: true
